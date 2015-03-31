@@ -25,4 +25,4 @@
 6. 要維護 料號對照表 的內容 (03/03) ==> 裕隆件號對照表 <br>
 7. 規劃建置 車型生產計劃 工具程式，方便產生要導入 F2Q49 的資料 <br>
 8. 裕隆裕器的資料檔案，有換行字碼的問題，需要手動處理才能正常轉入資料。<br>
-   相關操作說明，可參考：http://pertonchang.blogspot.tw/2015/03/02_29.html#links (http://pertonchang.blogspot.tw/2015/03/02_29.html#links)
+   相關操作說明，可參考：http://pertonchang.blogspot.tw/2015/03/02_29.html#links<br>
